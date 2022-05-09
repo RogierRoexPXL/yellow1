@@ -1,0 +1,15 @@
+D:\Security Advanced\WebAPIClient\bin\Debug\net6.0\WebAPIClient.exe
+D:\Security Advanced\WebAPIClient\bin\Debug\net6.0\WebAPIClient.deps.json
+D:\Security Advanced\WebAPIClient\bin\Debug\net6.0\WebAPIClient.runtimeconfig.json
+D:\Security Advanced\WebAPIClient\bin\Debug\net6.0\WebAPIClient.dll
+D:\Security Advanced\WebAPIClient\bin\Debug\net6.0\WebAPIClient.pdb
+D:\Security Advanced\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.AssemblyReference.cache
+D:\Security Advanced\WebAPIClient\obj\Debug\net6.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Security Advanced\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfoInputs.cache
+D:\Security Advanced\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfo.cs
+D:\Security Advanced\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CoreCompileInputs.cache
+D:\Security Advanced\WebAPIClient\obj\Debug\net6.0\WebAPIClient.dll
+D:\Security Advanced\WebAPIClient\obj\Debug\net6.0\refint\WebAPIClient.dll
+D:\Security Advanced\WebAPIClient\obj\Debug\net6.0\WebAPIClient.pdb
+D:\Security Advanced\WebAPIClient\obj\Debug\net6.0\WebAPIClient.genruntimeconfig.cache
+D:\Security Advanced\WebAPIClient\obj\Debug\net6.0\ref\WebAPIClient.dll
